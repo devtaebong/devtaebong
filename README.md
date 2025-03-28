@@ -3,7 +3,4 @@ Spring Framework와 Java/Kotlin을 활용하여 REST API를 설계하고 구현�
 
 ### Hard Skill
 
-- [MockK 오픈소스 컨트리뷰션 후기(1) - 신규 기능 개발 과정](https://devtaebong.tistory.com/3)
-- [MockK 오픈소스 컨트리뷰션 후기(2) - 전략 패턴을 활용한 설정 파일 관리와 테스트 개선](https://devtaebong.tistory.com/5)
-
-
+- [MockK 오픈소스 컨트리뷰션 후기) - 신규 기능 개발 과정](https://devtaebong.tistory.com/8)
