@@ -3,4 +3,4 @@ Spring Framework와 Java/Kotlin을 활용하여 REST API를 설계하고 구현�
 
 ### Hard Skill
 
-- [MockK 오픈소스 컨트리뷰션 후기 - Mocking 제한 기능 구현](https://devtaebong.tistory.com/8)
+- [MockK 오픈소스 컨트리뷰션 - Mocking 제한 기능 구현](https://devtaebong.tistory.com/8)
