@@ -3,4 +3,4 @@
 
 ### Hard Skill
 
-- [MockK 오픈소스 컨트리뷰션 - Mocking 제한 기능 구현](https://devtaebong.tistory.com/8)
+- [MockK 오픈소스 컨트리뷰션 - Mocking 제한 기능 구현](https://github.com/mockk/mockk/pull/1340)
