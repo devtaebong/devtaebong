@@ -1,6 +1,52 @@
-기술로 비즈니스 임팩트를 만들어내는 백엔드 엔지니어입니다.  
-코드 품질을 위한 설계 패턴 · TDD 등에 관심이 많고, 오픈소스 활동에 적극적으로 참여하고 있습니다.
+## I'm a Backend Engineer
 
-### Hard Skill
+Backend engineer who believes that **production should be boring**.  
+If it’s not, someone probably forgot a test.
 
-- [MockK 오픈소스 컨트리뷰션 - Mocking 제한 기능 구현](https://github.com/mockk/mockk/pull/1340)
+I build backend systems that stay calm under load,  
+handle edge cases gracefully,  
+and don’t surprise anyone at 3 a.m.
+
+---
+
+### Engineering philosophy
+
+- Production is not a place to learn
+- Boring systems are well-designed systems
+- Tests are cheaper than on-call anxiety
+- If it can fail, it eventually will
+
+---
+
+### What I work with
+
+- **Languages:** Kotlin, Java, C
+- **Frameworks:** Spring Boot, JPA, QueryDSL  
+- **Databases:** MySQL
+- **Infra:** AWS
+- **Testing:** TDD, Kotest(I even contribute)
+
+---
+
+### Things I’ve built (and kept boring)
+
+- Payment & subscription systems that survive retries
+- Idempotent APIs
+- Scheduled billing jobs that don’t panic at midnight
+- Concurrency-safe services
+
+---
+
+### Open Source
+
+- **MockK contributor**  
+  Implemented a feature to restrict unsafe mocking behavior  
+  👉 https://github.com/mockk/mockk/pull/1340
+
+---
+
+### What my code usually causes
+
+- Fewer production incidents
+- Calmer on-call rotations
+- Slightly happier PMs
